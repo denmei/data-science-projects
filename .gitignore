@@ -1,2 +1,10 @@
-plays.tsv
-profiles.tsv
+lastFm/lastfm-dataset-360K/*
+CreditCard/creditcard.csv
+CreditCard/creditcardfraud.zip
+lastFm/nn_recommender.sav
+CreditCard/.ipynb_checkpoints/*
+lastFm/nn_recommender
+lastFm/.ipynb_checkpoints/
+lastFm/artists
+
+
